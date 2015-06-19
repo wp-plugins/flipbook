@@ -1,0 +1,64 @@
+.wp-flipbook-sortable {
+  margin-bottom:25px;
+}
+
+.wp-flipbook-sortable .ui-sortable-placeholder { 
+  border: 1px dashed #bbbbbb !important; 
+  visibility: visible !important;
+  background:#f5f5f5 !important;
+}
+.wp-flipbook-sortable .wp-flipbook-portlet-header {
+  background: linear-gradient(to top, #ECECEC, #F9F9F9) repeat scroll 0 0 #F1F1F1;
+  padding:5px;
+  border-bottom-width: 1px;
+  border-bottom-color: #DFDFDF;
+  box-shadow: 0 1px 0 #FFFFFF;
+  text-shadow: 0 1px 0 #FFFFFF;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  cursor:move;
+}
+
+.wp-flipbook-sortable .wp-flipbook-portlet {
+  border:1px solid #DFDFDF;
+  margin-bottom:5px;
+  background:linear-gradient(to top, #F5F5F5, #F9F9F9) repeat scroll 0 0 #F5F5F5;
+}
+
+.wp-flipbook-sortable .wp-flipbook-portlet-content {
+  display:none;
+  padding:10px;
+}
+
+.wp-flipbook-sortable .wp-flipbook-portlet-header-buttons {
+  display:block;
+  float:right;
+}
+
+.wp-flipbook-sortable .wp-flipbook-img {
+  width:250px;
+  display:block;
+  margin-bottom:10px;
+}
+
+.wp-flipbook-sortable .wp-flipbook-header-remove {
+  display:inline-block;
+  width:15px;
+  height:15px;
+  background:url("../../../../wp-includes/images/uploader-icons.png") -100px 0 no-repeat;
+  cursor:pointer;
+}
+
+.wp-flipbook-sortable .wp-flipbook-header-visibility {
+  display:inline-block;
+  width:17px;
+  height:15px;
+  margin-right:10px;
+  cursor:pointer;
+  background:url("../../../../wp-includes/images/down_arrow-2x.gif") 0 -13px no-repeat;
+}
+
+#minor-publishing-actions,
+#misc-publishing-actions {
+  display:none;
+}
