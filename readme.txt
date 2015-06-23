@@ -20,17 +20,17 @@ Plugin para simular efeito de livro e revistas.
 
 = Quais são os requisitos para utilizar o plugin? =
 
-1 . PHP versão 5.4 ou superior.
-1 . Um site com o WordPress instalado
+1. PHP versão 5.4 ou superior.
+1. Um site com o WordPress instalado
 
 = Como devo configurar o plugin? =
 
 Cada novo FlipBook adicionado possui suas próprias configurações de visualização. Desta forma você pode configurar os seguintes itens através das propriedades:
 
-1 . Exibir Navegação
-1 . Margin Superior
-1 . Margin Inferior
-1 . Page Width
-1 . Page Height
-1 . Capa Dura
-1 . Centralizar livro ao fechar
+1. Exibir Navegação
+1. Margin Superior
+1. Margin Inferior
+1. Page Width
+1. Page Height
+1. Capa Dura
+1. Centralizar livro ao fechar
