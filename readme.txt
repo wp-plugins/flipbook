@@ -11,10 +11,10 @@ Plugin para simular efeito de livro e revistas.
 
 == Installation ==
 
-Envie os arquivos do plugin para a pasta wp-content/plugins, ou utilize o instalador de plugins do WordPress.
-Ative o plugin.
-Cadastre seus FlipBook's a partir da área:
-FlipBook -> Adicionar FlipBook
+* Envie os arquivos do plugin para a pasta wp-content/plugins, ou utilize o instalador de plugins do WordPress.
+* Ative o plugin.
+* Cadastre seus FlipBook's a partir da área:
+* *FlipBook -> Adicionar FlipBook*
 
 == Frequently Asked Questions ==
 
